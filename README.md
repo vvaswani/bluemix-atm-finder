@@ -4,7 +4,6 @@ This is a simple mobile app to find the nearest ATM. It's built with Bootstrap, 
 
 ## Getting Started
 
-* Download the code from [JazzHub](https://hub.jazz.net/project/vvaswani/atm-finder). 
 * Update the API key in the scripts with your own API key. 
 
 ## Google API Access
