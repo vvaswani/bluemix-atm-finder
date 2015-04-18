@@ -1,0 +1,7 @@
+---
+applications:
+- name: atm-finder
+memory: 256M
+instances: 1
+host: atm-finder-nnn
+buildpack: https://github.com/dmikusa-pivotal/cf-php-build-pack.git
